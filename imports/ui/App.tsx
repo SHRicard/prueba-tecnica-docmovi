@@ -25,7 +25,6 @@ const App = () => {
           <h4 className=" fw-bold text-uppercase text-center py-3">
             Lista de Pacientes
           </h4>
-
           <Tabla />
         </div>
       </div>
